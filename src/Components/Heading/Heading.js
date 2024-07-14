@@ -10,7 +10,7 @@ export default function Heading({ title, subtitle, isContactPage = false }) {
     <Stack
       justifyContent="center"
       alignItems="center"
-      height={isContactPage ? "50vh" : "70vh"}
+      height={isContactPage ? "50vh" : "90vh"}
       spacing="2rem"
       bgcolor="#D3D3D3"
     >
